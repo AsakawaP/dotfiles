@@ -22,5 +22,6 @@ alias fd="fdfind"
 # compdef _precommand gg
 
 # container
+# alias docker="sudo docker"
 # alias watchtower="sudo docker run --rm -it -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower"
 # alias rclone="sudo docker run --rm -it -v ~/rclone/config:/config/rclone --user $(id -u):$(id -g) -v ~/rclone/data:/data rclone/rclone"
