@@ -1,0 +1,43 @@
+{
+    "folders": [
+        {
+            "path": ".",
+            "name": "WinSCP"
+        }
+    ],
+    "settings": {
+        "files.autoSave": "onFocusChange",
+        "editor.snippetSuggestions": "inline",
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggest.showSnippets": true,
+        "editor.tabCompletion": "on",
+        "workbench.colorTheme": "Default Light+",
+        "files.eol": "\n",
+        "[markdown]": {
+            "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+        },
+        "AllAutocomplete.showCurrentDocument": false,
+        "AllAutocomplete.showOpenDocuments": true,
+        "editor.wordBasedSuggestions": "allDocuments",
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on"
+        },
+        "files.exclude": {
+            "WinSCP.*": true,
+            "*.txt": true,
+            "*.exe": true
+        }
+    },
+    "extensions": {
+        "recommendations": [
+            "redhat.vscode-yaml",
+            "huizhou.githd",
+            "mikeylau.typewriter-auto-scroll",
+            "pkief.material-icon-theme",
+            "yzhang.markdown-all-in-one",
+            "shd101wyy.markdown-preview-enhanced",
+            "atishay-jain.all-autocomplete"
+        ]
+    }
+}
